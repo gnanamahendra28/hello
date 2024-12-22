@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.log_in{
+    background-image:url("https://wallpaperaccess.com/full/1900857.jpg");
+    background-size:cover ;
+
+    border-radius: 5px;
+    border :2px solid;
+    padding:10px;
+    width: 40%;
+    color:rgb(0, 79, 250);
+    border-color: yellowgreen;
+    
+
+}
+.column{
+    border-color:#ffffff;
+}
+.name{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h1{
+font-family: "roboto";
+font-size: 40px;
+font-weight : bold;
+text-align: center;
+color:rgb(39, 75, 216);
+margin-bottom: 10px;
+
+}
